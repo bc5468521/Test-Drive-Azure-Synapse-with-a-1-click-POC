@@ -291,7 +291,7 @@
 			},
 			"SQLLoginUsername": {
 				"type": "string",
-				"defaultValue": "bobchen@microsoft.com"
+				"defaultValue": "bc5468521"
 			},
 			"KeyVaultName": {
 				"type": "string",
