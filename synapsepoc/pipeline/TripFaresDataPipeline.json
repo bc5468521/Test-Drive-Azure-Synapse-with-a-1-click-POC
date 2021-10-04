@@ -283,7 +283,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "bobunrn3jbciqtaspocws1.database.windows.net"
+				"defaultValue": "bobunrn3jbciqtaspocws1"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
